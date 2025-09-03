@@ -1,0 +1,28 @@
+@keyframes accentShine {
+    0% {
+        background-position: -120px;
+    }
+    100% {
+        background-position: 120px;
+    }
+}
+:root {
+    --primary-color: #2563eb; /* Azul principal */
+    --secondary-color: #1e3a8a; /* Azul secundario */
+    --accent-color: #00ffff; /* Celeste */
+    --text-primary: #e0f2fe;
+    --text-secondary: #93c5fd;
+    --text-light: #00ffff; /* Celeste para detalles */
+    --white: #ffffff;
+    --bg-light: #e0f2fe; /* Celeste claro */
+    --bg-gray: #23232a; /* Gris oscuro */
+    --bg-dark: #18181b;
+    --bg-blue-dark: #0a2342; /* Azul oscuro */
+    --bg-blue-light: #60a5fa; /* Azul claro */
+}
+
+@keyframes heroBgMove {
+    0% { background-position: center 0px; }
+    50% { background-position: center 40px; }
+    100% { background-position: center 0px; }
+}
