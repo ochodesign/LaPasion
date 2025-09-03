@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5e80131.css",
+    "main.js": "/static/js/main.5a1a5690.js",
+    "static/js/453.2040d821.chunk.js": "/static/js/453.2040d821.chunk.js",
+    "static/media/logolapasion.svg": "/static/media/logolapasion.b1300ce26594f3ca3aeffface1028a6d.svg",
+    "static/media/hero-bg-2-dk.webp": "/static/media/hero-bg-2-dk.a8610b9562834b9d9728.webp",
+    "static/media/hero-bg-1-dk.webp": "/static/media/hero-bg-1-dk.71fd46cecbf2397d7a7d.webp",
+    "static/media/beneficios-bg.webp": "/static/media/beneficios-bg.630f1b5e21d17d235010.webp",
+    "static/media/hero-bg-2-mb.webp": "/static/media/hero-bg-2-mb.507115f0aa35d8afe9fb.webp",
+    "static/media/hero-bg-1-mb.webp": "/static/media/hero-bg-1-mb.71485e27247db3b1bdc5.webp",
+    "static/media/servicios-personalizados.webp": "/static/media/servicios-personalizados.11e7f6e76f71134f6886.webp",
+    "static/media/vinilo.webp": "/static/media/vinilo.2c35f069e1df8c950b7a.webp",
+    "static/media/buzosrandom.webp": "/static/media/buzosrandom.14775a31029c8e8d53ed.webp",
+    "static/media/gameoverorange.webp": "/static/media/gameoverorange.3cc07ad4cb3f83ba5636.webp",
+    "static/media/messicopa.webp": "/static/media/messicopa.d53f9b8bb3bf5a8c8123.webp",
+    "static/media/gameoverblack.webp": "/static/media/gameoverblack.37d49800b036c92deaed.webp",
+    "static/media/buzoroling.webp": "/static/media/buzoroling.953118295946faa6466c.webp",
+    "static/media/buzomessi.webp": "/static/media/buzomessi.50ea53d796e548345cba.webp",
+    "static/media/buzomundial1.webp": "/static/media/buzomundial1.30f602bdd490b0982896.webp",
+    "static/media/lostresmundiales3.webp": "/static/media/lostresmundiales3.30f602bdd490b0982896.webp",
+    "static/media/buzoarg1.webp": "/static/media/buzoarg1.aad3a61495dfd50f4900.webp",
+    "static/media/lostresmundiales2.webp": "/static/media/lostresmundiales2.3f352261e5e480087425.webp",
+    "static/media/buzochinchin.webp": "/static/media/buzochinchin.14647b639132ced5c58a.webp",
+    "static/media/trabajocantidad.webp": "/static/media/trabajocantidad.3254d8a691333604cf1f.webp",
+    "static/media/sobremi5.webp": "/static/media/sobremi5.ad0bb29834e79f059f6c.webp",
+    "static/media/sobremi6.webp": "/static/media/sobremi6.c71a39619bee6e4d14a6.webp",
+    "static/media/produccionpormayor.webp": "/static/media/produccionpormayor.74177b844780979da058.webp",
+    "static/media/logofifa.webp": "/static/media/logofifa.032d51c0d43e4b1a3ad4.webp",
+    "index.html": "/index.html",
+    "main.f5e80131.css.map": "/static/css/main.f5e80131.css.map",
+    "main.5a1a5690.js.map": "/static/js/main.5a1a5690.js.map",
+    "453.2040d821.chunk.js.map": "/static/js/453.2040d821.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e80131.css",
+    "static/js/main.5a1a5690.js"
+  ]
+}
